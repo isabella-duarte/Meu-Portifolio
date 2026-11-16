@@ -17,7 +17,7 @@ Desenvolvimento de Sistemas.
 - JavaScript (Bootstrap)
 
 ## Link do site publicado
-https://isabella-duarte.github.io/meu-portfolio/
+[https://isabella-duarte.github.io/meu-portfolio/](https://isabella-duarte.github.io/Meu-Portifolio/)
 
 ## Funcionamento do projeto
 O site possui um menu de navegação que permite
